@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CodiceFiscale</string>
+    <string name="presentazione">Benvenuto nell app DEDDIO</string>
+    <string name="URL">http://192.168.7.122:8080/codicefiscale/persona</string>
+</resources>
